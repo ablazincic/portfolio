@@ -1,0 +1,37 @@
+body {
+    background-color: #1E1E1E;
+    color: #E0E0E0;
+    font-family: Arial, sans-serif;
+}
+
+ul a
+{
+    text-decoration: none;
+    color: #E0E0E0;
+
+}
+
+ul
+{
+    list-style-type: none;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 3rem;
+
+}
+
+.lucide-laptop
+{
+    width:35px;
+    height: 35px;
+}
+
+nav
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+
