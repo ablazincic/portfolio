@@ -156,3 +156,22 @@ hr
     display:flex;
     justify-content: center;
 }
+
+#about a
+{
+    color:transparent;
+    text-decoration: none;
+}
+
+#about img
+{
+    width:50px;
+    height: 50px;
+}
+
+.about-languages
+{
+    display:flex;
+    justify-content: center;
+    gap:1.4rem;
+}
